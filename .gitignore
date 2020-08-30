@@ -1,0 +1,10 @@
+*.zip
+.ipynb_checkpoints
+\recommendationsv4
+recommendationsv4/train.csv
+recommendationsv4/test.csv
+recommendationsv4/sample_submission.csv
+recommendationsv4/sample_submission.csv
+recommendationsv4/test.csv
+recommendationsv4/train.csv
+recommendationsv4/meta_Grocery_and_Gourmet_Food.json
